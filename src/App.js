@@ -11,7 +11,7 @@ import {NotFound} from './pages/NotFound';
 function App() {
   return (
     <>
-    <Router>
+    <Router basename='/recipe-book'>
     <Header/>
     <main className='container content'>
       
