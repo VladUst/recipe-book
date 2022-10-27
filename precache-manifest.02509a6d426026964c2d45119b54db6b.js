@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "483d24bd979618b7fdc5",
-    "url": "/recipe-book/static/css/main.e1c72a3e.chunk.css"
+    "revision": "300c0c29da95ca08d1b9",
+    "url": "/recipe-book/static/css/main.d76b77b4.chunk.css"
   },
   {
-    "revision": "483d24bd979618b7fdc5",
-    "url": "/recipe-book/static/js/main.483d24bd.chunk.js"
+    "revision": "300c0c29da95ca08d1b9",
+    "url": "/recipe-book/static/js/main.300c0c29.chunk.js"
   },
   {
     "revision": "80010276ce668ab252d1",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/recipe-book/static/js/runtime~main.00527e04.js"
   },
   {
-    "revision": "56bde5100ed1db9cea4930c02477019a",
+    "revision": "b6a974c249356a1765754cf3b0bc83dd",
     "url": "/recipe-book/index.html"
   }
 ];
