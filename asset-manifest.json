@@ -1,13 +1,13 @@
 {
   "main.css": "/recipe-book/static/css/main.d76b77b4.chunk.css",
-  "main.js": "/recipe-book/static/js/main.300c0c29.chunk.js",
-  "main.js.map": "/recipe-book/static/js/main.300c0c29.chunk.js.map",
+  "main.js": "/recipe-book/static/js/main.53ab704a.chunk.js",
+  "main.js.map": "/recipe-book/static/js/main.53ab704a.chunk.js.map",
   "static/js/1.80010276.chunk.js": "/recipe-book/static/js/1.80010276.chunk.js",
   "static/js/1.80010276.chunk.js.map": "/recipe-book/static/js/1.80010276.chunk.js.map",
   "runtime~main.js": "/recipe-book/static/js/runtime~main.00527e04.js",
   "runtime~main.js.map": "/recipe-book/static/js/runtime~main.00527e04.js.map",
   "static/css/main.d76b77b4.chunk.css.map": "/recipe-book/static/css/main.d76b77b4.chunk.css.map",
   "index.html": "/recipe-book/index.html",
-  "precache-manifest.02509a6d426026964c2d45119b54db6b.js": "/recipe-book/precache-manifest.02509a6d426026964c2d45119b54db6b.js",
+  "precache-manifest.5cb165b60990cdadede3740ed6d8d407.js": "/recipe-book/precache-manifest.5cb165b60990cdadede3740ed6d8d407.js",
   "service-worker.js": "/recipe-book/service-worker.js"
 }
