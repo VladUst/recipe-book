@@ -1,7 +1,7 @@
 import React from 'react';
 import { useState } from 'react';
 
-function Search({ cb = Function.prototype }) {
+function Search({ handleSearch = Function.prototype }) {
     const [value, setValue] = useState('');
 
     const handleKey = (e) => {
@@ -10,7 +10,7 @@ function Search({ cb = Function.prototype }) {
         }
     };
     const handleSubmit = () => {
-        cb(value);
+        handleSearch(value);
     };
     return (
         <div className="row">

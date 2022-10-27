@@ -34,7 +34,7 @@ function Home() {
     }, [search]);
     return (
         <>
-            <Search cb={handleSearch} />
+            <Search handleSearch={handleSearch} />
             {!catalog.length ? (
                 <Preloader />
             ) : (
