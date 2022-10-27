@@ -46,7 +46,14 @@ nav{
   right: 0.5rem;
 }
 
+.recipe{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 iframe{
   width: 600px;
   height: 350px;
+  margin-top: 50px;
 }

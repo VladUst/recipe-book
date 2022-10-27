@@ -52,7 +52,6 @@ function Recipe() {
                     </table>
                     {recipe.strYoutube ? (
                         <div className="row">
-                            <h5 style={{ margin: '2rem 0 1.5rem' }}>Video</h5>
                             <iframe
                                 title={id}
                                 src={`https://www.youtube.com/embed/${recipe.strYoutube.slice(
