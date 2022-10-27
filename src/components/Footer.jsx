@@ -5,7 +5,10 @@ function Footer() {
             <div className="footer-copyright">
                 <div className="container">
                     © {new Date().getFullYear()} Copyright Text
-                    <a className="grey-text text-lighten-4 right" href="https://vladust.github.io/recipe-book/">
+                    <a
+                        className="grey-text text-lighten-4 right"
+                        href="https://github.com/VladUst/recipe-book"
+                    >
                         Repo
                     </a>
                 </div>
